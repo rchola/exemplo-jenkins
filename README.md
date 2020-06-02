@@ -1,4 +1,4 @@
 # exemplo-jenkins
 Exemplo de entrega de conteúdo automatizado via Jenkins
 
-by RChola
+by RChola (C) 2020
