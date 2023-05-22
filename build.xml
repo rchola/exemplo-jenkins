@@ -1,5 +1,5 @@
 	
-<project name="Projecto de exemplo para build no jenkins">
+<project name="Projecto de Exemplo para BUILD via Jenkins">
 	
 	<path id="tests.classpath" path=".">
 		<fileset dir="lib/">
