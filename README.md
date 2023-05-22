@@ -1,4 +1,4 @@
 # exemplo-jenkins
 Exemplo de entrega de conteúdo automatizado via Jenkins
 
-by RChola (C) 2019-2022 - SPTECH SCHOOL
+by RChola (C) 2019-2023 - SPTECH SCHOOL
